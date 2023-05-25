@@ -1,0 +1,16 @@
+.header{
+    background-color: black;
+}
+.contenedor {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo {
+    display: flex;
+    align-items: center;
+    
+}
+.logo-imagen{
+    padding-right: 1px;
+}
