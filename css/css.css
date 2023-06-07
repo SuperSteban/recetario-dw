@@ -234,3 +234,38 @@ a:hover {
     font-size: large;
     font-weight: 700;
 }
+.nosotros {
+    flex-direction: column;
+    padding: 4rem;
+    text-align: center;
+    
+}
+.nosotros img {
+    width: 90%;
+    height: 90%;
+    margin-bottom: 5rem;
+    margin-top: 3rem;
+    border-radius: 10px;
+}
+.registro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.registro {
+    height: 35rem;
+    margin: 2rem
+}
+.registro-form {
+    display: flex;
+    flex-direction: column;
+
+}
+.input-text {
+    padding: 1rem;
+    width: 20rem;
+    height: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
